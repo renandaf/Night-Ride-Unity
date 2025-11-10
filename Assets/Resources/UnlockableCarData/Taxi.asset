@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9b4644c8cb9f7634aa62042ffdc0fb23, type: 3}
+  m_Name: Taxi
+  m_EditorClassIdentifier: 
+  Id: 1
+  Name: Taxi
+  Model: {fileID: 4958045010039482124, guid: 558a8bd8cab752b448270adf73ae8b59, type: 3}
+  Price: 15
+  Speed: 4
+  Health: 5

@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9b4644c8cb9f7634aa62042ffdc0fb23, type: 3}
+  m_Name: Sport
+  m_EditorClassIdentifier: 
+  Id: 3
+  Name: Sport
+  Model: {fileID: 8454301329878398006, guid: c78e53e4ac5bd594bb7674a4c094f422, type: 3}
+  Price: 60
+  Speed: 9
+  Health: 3
